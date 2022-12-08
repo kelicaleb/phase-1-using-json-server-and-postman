@@ -17,6 +17,11 @@
       "title": "Third Article",
       "content": "Another example!",
       "id": 4
+    },
+    {
+      "id": 5,
+      "name": "caleb",
+      "age": 21
     }
   ]
 }
